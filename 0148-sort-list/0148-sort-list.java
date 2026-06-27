@@ -43,15 +43,10 @@ class Solution {
                 pointer = pointer.next;
             }
         }
-        while(head1 != null){
+        if (head1 != null) {
             pointer.next = head1;
-                head1 = head1.next;
-                pointer = pointer.next;
-        }
-        while(head2 != null){
+        } else {
             pointer.next = head2;
-                head2 = head2.next;
-                pointer = pointer.next;
         }
         return temp.next;
     }
