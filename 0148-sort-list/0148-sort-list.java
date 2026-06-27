@@ -48,6 +48,6 @@ class Solution {
         } else {
             pointer.next = head2;
         }
-        return temp.next;
+        return temp.net;
     }
 }
