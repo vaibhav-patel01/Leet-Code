@@ -10,6 +10,7 @@ thit repository consist all my leetcode submissions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0162-find-peak-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,6 +36,7 @@ thit repository consist all my leetcode submissions
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Linked List
 |  |
 | ------- |
