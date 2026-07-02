@@ -16,6 +16,7 @@ thit repository consist all my leetcode submissions
 |  |
 | ------- |
 | [0018-4sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0142-linked-list-cycle-ii) |
@@ -45,6 +46,7 @@ thit repository consist all my leetcode submissions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0083-remove-duplicates-from-sorted-list) |
