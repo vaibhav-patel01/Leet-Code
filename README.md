@@ -44,6 +44,7 @@ thit repository consist all my leetcode submissions
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -57,6 +58,7 @@ thit repository consist all my leetcode submissions
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0234-palindrome-linked-list) |
@@ -69,6 +71,7 @@ thit repository consist all my leetcode submissions
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
