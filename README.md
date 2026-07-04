@@ -42,6 +42,7 @@ thit repository consist all my leetcode submissions
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
+| [0686-repeated-string-match](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0686-repeated-string-match) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Linked List
 |  |
@@ -96,4 +97,8 @@ thit repository consist all my leetcode submissions
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0234-palindrome-linked-list) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
