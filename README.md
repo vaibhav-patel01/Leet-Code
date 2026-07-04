@@ -12,6 +12,7 @@ thit repository consist all my leetcode submissions
 | [0162-find-peak-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0162-find-peak-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@ thit repository consist all my leetcode submissions
 | [0141-linked-list-cycle](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0202-happy-number) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
 | ------- |
@@ -101,4 +103,8 @@ thit repository consist all my leetcode submissions
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0686-repeated-string-match) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
