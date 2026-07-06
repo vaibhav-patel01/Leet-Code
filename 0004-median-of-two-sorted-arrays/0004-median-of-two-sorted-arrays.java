@@ -1,42 +1,38 @@
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        if(nums1.length> nums2.length)
-        {
-            return findMedianSortedArrays(nums2,nums1); //smaller,larger
+        int n = nums1.length;
+        int m = nums2.length;
+        int[] result = new int[n+m];
+        int i = 0, j = 0, k = 0;
+        while( i < n || j < m){
+            if( i == n){
+                result[k] = nums2[j];
+                k++;
+                j++;
+                continue;
+            }
+            if( j == m){
+                result[k] = nums1[i];
+                k++;
+                i++;
+                continue;
+            }
+            if( nums1[i] <= nums2[j] ){
+                result[k] = nums1[i];
+                i++;
+            }
+            else {
+                result[k] = nums2[j];
+                j++;
+            }
+            k++;
         }
-
-        int m = nums1.length, n = nums2.length;
-        int leftSize = (m+n+1)/2;
-
-        int low =0, high = m;
-
-        while(low<=high)
-        {
-            int cut1 = low +(high-low)/2;
-            int cut2 = leftSize - cut1;
-
-            int l1 = (cut1==0)? Integer.MIN_VALUE: nums1[cut1-1];
-            int r1 = (cut1==m)? Integer.MAX_VALUE: nums1[cut1];
-            int l2 = (cut2==0)? Integer.MIN_VALUE: nums2[cut2-1];
-            int r2 = (cut2==n)? Integer.MAX_VALUE: nums2[cut2];
-
-            if(l1<= r2 && l2<=r1)
-            {
-                //median found
-                if((m+n)%2==1)
-                    return Math.max(l1,l2);
-                else
-                    return (Math.max(l1,l2)+Math.min(r1,r2))/2.0;
-            }
-            else if(l1>r2)
-            {
-                high = cut1 -1;
-            }
-            else
-            {
-                low = cut1 +1;
-            }
+        int mid = result.length / 2;
+        if(result.length % 2 == 0 ){
+            return (float)(result[mid] + result[mid - 1]) / 2;
         }
-        return 0.0;
+        else{
+            return result[mid];
+        }
     }
 }
