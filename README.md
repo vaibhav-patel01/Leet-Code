@@ -84,6 +84,7 @@ thit repository consist all my leetcode submissions
 | ------- |
 | [0002-add-two-numbers](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0202-happy-number) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Divide and Conquer
 |  |
 | ------- |
