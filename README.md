@@ -45,6 +45,7 @@ thit repository consist all my leetcode submissions
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0151-reverse-words-in-a-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0686-repeated-string-match](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0686-repeated-string-match) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -76,6 +77,7 @@ thit repository consist all my leetcode submissions
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0202-happy-number) |
@@ -110,6 +112,7 @@ thit repository consist all my leetcode submissions
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
