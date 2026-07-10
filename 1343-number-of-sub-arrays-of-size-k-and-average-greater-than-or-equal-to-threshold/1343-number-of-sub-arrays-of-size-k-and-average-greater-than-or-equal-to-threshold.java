@@ -4,15 +4,11 @@ class Solution {
         int j = 0; 
         int sum = 0;
         int count = 0;
-        int n = arr.length;
-        while(j < n){
+        while(j < arr.length){
             sum += arr[j];
-            if((j - i + 1) == k && (sum /k) >= threshold){
+            if((j - i + 1) == k ){
+                if((sum /k) >= threshold)
                 count++;
-                sum -= arr[i];
-                i++;
-            }
-            if(j-i+1 == k){
                 sum -= arr[i];
                 i++;
             }
