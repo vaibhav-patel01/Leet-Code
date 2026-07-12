@@ -14,6 +14,7 @@ thit repository consist all my leetcode submissions
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0904-fruit-into-baskets) |
+| [1331-rank-transform-of-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -37,6 +38,7 @@ thit repository consist all my leetcode submissions
 | ------- |
 | [0018-4sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0148-sort-list) |
+| [1331-rank-transform-of-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Binary Search
 |  |
@@ -86,6 +88,7 @@ thit repository consist all my leetcode submissions
 | [0142-linked-list-cycle-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0202-happy-number) |
 | [0904-fruit-into-baskets](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0904-fruit-into-baskets) |
+| [1331-rank-transform-of-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1331-rank-transform-of-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
