@@ -130,4 +130,8 @@ thit repository consist all my leetcode submissions
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
