@@ -11,6 +11,7 @@ thit repository consist all my leetcode submissions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0041-first-missing-positive) |
 | [0162-find-peak-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0904-fruit-into-baskets) |
@@ -29,6 +30,7 @@ thit repository consist all my leetcode submissions
 | [0142-linked-list-cycle-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0876-middle-of-the-linked-list) |
@@ -94,6 +96,7 @@ thit repository consist all my leetcode submissions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0202-happy-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Divide and Conquer
