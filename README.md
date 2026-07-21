@@ -13,6 +13,7 @@ thit repository consist all my leetcode submissions
 | [0162-find-peak-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1331-rank-transform-of-an-array) |
@@ -41,6 +42,7 @@ thit repository consist all my leetcode submissions
 | ------- |
 | [0018-4sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Binary Search
@@ -109,6 +111,7 @@ thit repository consist all my leetcode submissions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -148,4 +151,12 @@ thit repository consist all my leetcode submissions
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
