@@ -14,6 +14,7 @@ thit repository consist all my leetcode submissions
 | [0189-rotate-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1331-rank-transform-of-an-array) |
@@ -43,6 +44,7 @@ thit repository consist all my leetcode submissions
 | [0018-4sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Binary Search
@@ -93,6 +95,7 @@ thit repository consist all my leetcode submissions
 | [0141-linked-list-cycle](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0202-happy-number) |
+| [0347-top-k-frequent-elements](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1331-rank-transform-of-an-array) |
@@ -112,6 +115,7 @@ thit repository consist all my leetcode submissions
 | [0004-median-of-two-sorted-arrays](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -155,8 +159,18 @@ thit repository consist all my leetcode submissions
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
