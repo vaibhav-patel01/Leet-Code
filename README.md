@@ -23,6 +23,7 @@ thit repository consist all my leetcode submissions
 | [0724-find-pivot-index](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0973-k-closest-points-to-origin) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -121,6 +122,7 @@ thit repository consist all my leetcode submissions
 | [0560-subarray-sum-equals-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0767-reorganize-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1331-rank-transform-of-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1331-rank-transform-of-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -180,6 +182,7 @@ thit repository consist all my leetcode submissions
 | [0523-continuous-subarray-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Enumeration
 |  |
 | ------- |
