@@ -10,6 +10,7 @@ thit repository consist all my leetcode submissions
 | [0018-4sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0041-first-missing-positive) |
+| [0056-merge-intervals](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0056-merge-intervals) |
 | [0162-find-peak-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
@@ -54,6 +55,7 @@ thit repository consist all my leetcode submissions
 |  |
 | ------- |
 | [0018-4sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0242-valid-anagram) |
