@@ -17,6 +17,7 @@ thit repository consist all my leetcode submissions
 | [0238-product-of-array-except-self](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
@@ -119,6 +120,7 @@ thit repository consist all my leetcode submissions
 | [0347-top-k-frequent-elements](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0767-reorganize-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0904-fruit-into-baskets) |
@@ -180,6 +182,7 @@ thit repository consist all my leetcode submissions
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0974-subarray-sums-divisible-by-k) |
