@@ -26,6 +26,7 @@ thit repository consist all my leetcode submissions
 | [0904-fruit-into-baskets](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0986-interval-list-intersections](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0986-interval-list-intersections) |
 | [1331-rank-transform-of-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -51,6 +52,7 @@ thit repository consist all my leetcode submissions
 | [0234-palindrome-linked-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0876-middle-of-the-linked-list) |
+| [0986-interval-list-intersections](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0986-interval-list-intersections) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
@@ -241,4 +243,8 @@ thit repository consist all my leetcode submissions
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
