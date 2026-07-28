@@ -11,6 +11,7 @@ thit repository consist all my leetcode submissions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0057-insert-interval) |
 | [0162-find-peak-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
