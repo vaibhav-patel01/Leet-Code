@@ -28,6 +28,7 @@ thit repository consist all my leetcode submissions
 | [0973-k-closest-points-to-origin](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0986-interval-list-intersections) |
+| [1288-remove-covered-intervals](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -67,6 +68,7 @@ thit repository consist all my leetcode submissions
 | [0628-maximum-product-of-three-numbers](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0767-reorganize-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0973-k-closest-points-to-origin) |
+| [1288-remove-covered-intervals](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
