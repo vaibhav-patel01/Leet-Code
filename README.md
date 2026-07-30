@@ -89,6 +89,7 @@ thit repository consist all my leetcode submissions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0392-is-subsequence) |
@@ -183,6 +184,7 @@ thit repository consist all my leetcode submissions
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
 ## String Matching
