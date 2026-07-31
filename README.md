@@ -65,6 +65,7 @@ thit repository consist all my leetcode submissions
 | [0876-middle-of-the-linked-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0876-middle-of-the-linked-list) |
 | [0986-interval-list-intersections](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0986-interval-list-intersections) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1768-merge-strings-alternately](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
@@ -112,6 +113,7 @@ thit repository consist all my leetcode submissions
 | [0686-repeated-string-match](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0686-repeated-string-match) |
 | [0767-reorganize-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0767-reorganize-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1768-merge-strings-alternately](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
