@@ -44,6 +44,7 @@ thit repository consist all my leetcode submissions
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2542-maximum-subsequence-score](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2542-maximum-subsequence-score) |
 | [3169-count-days-without-meetings](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3169-count-days-without-meetings) |
 ## Two Pointers
 |  |
@@ -84,6 +85,7 @@ thit repository consist all my leetcode submissions
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2542-maximum-subsequence-score](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2542-maximum-subsequence-score) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3169-count-days-without-meetings](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3169-count-days-without-meetings) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -195,6 +197,7 @@ thit repository consist all my leetcode submissions
 | [0435-non-overlapping-intervals](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 | [0767-reorganize-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0767-reorganize-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2542-maximum-subsequence-score](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2542-maximum-subsequence-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
@@ -250,6 +253,7 @@ thit repository consist all my leetcode submissions
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2542-maximum-subsequence-score](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2542-maximum-subsequence-score) |
 ## Quickselect
 |  |
 | ------- |
