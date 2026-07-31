@@ -59,6 +59,7 @@ thit repository consist all my leetcode submissions
 | [0189-rotate-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0234-palindrome-linked-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0876-middle-of-the-linked-list) |
@@ -104,6 +105,7 @@ thit repository consist all my leetcode submissions
 | [0020-valid-parentheses](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0443-string-compression) |
