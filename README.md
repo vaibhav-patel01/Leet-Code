@@ -18,6 +18,7 @@ thit repository consist all my leetcode submissions
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 | [0523-continuous-subarray-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
@@ -72,6 +73,7 @@ thit repository consist all my leetcode submissions
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0767-reorganize-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0973-k-closest-points-to-origin) |
@@ -190,6 +192,7 @@ thit repository consist all my leetcode submissions
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 | [0767-reorganize-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0767-reorganize-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -272,6 +275,7 @@ thit repository consist all my leetcode submissions
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Counting Sort
 |  |
