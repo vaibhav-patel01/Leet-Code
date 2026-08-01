@@ -67,6 +67,7 @@ thit repository consist all my leetcode submissions
 | [1679-max-number-of-k-sum-pairs](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -117,6 +118,7 @@ thit repository consist all my leetcode submissions
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -201,6 +203,7 @@ thit repository consist all my leetcode submissions
 | [0435-non-overlapping-intervals](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 | [0767-reorganize-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0767-reorganize-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2542-maximum-subsequence-score](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2542-maximum-subsequence-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
