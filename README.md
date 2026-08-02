@@ -8,6 +8,7 @@ thit repository consist all my leetcode submissions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0056-merge-intervals) |
@@ -97,6 +98,7 @@ thit repository consist all my leetcode submissions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0162-find-peak-element) |
