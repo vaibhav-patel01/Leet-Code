@@ -27,6 +27,7 @@ thit repository consist all my leetcode submissions
 | [0628-maximum-product-of-three-numbers](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -185,6 +186,7 @@ thit repository consist all my leetcode submissions
 | [0202-happy-number](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0973-k-closest-points-to-origin) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -293,6 +295,7 @@ thit repository consist all my leetcode submissions
 | ------- |
 | [0392-is-subsequence](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0435-non-overlapping-intervals) |
+| [0877-stone-game](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Counting Sort
 |  |
@@ -306,4 +309,8 @@ thit repository consist all my leetcode submissions
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
