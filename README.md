@@ -14,6 +14,7 @@ thit repository consist all my leetcode submissions
 | [0056-merge-intervals](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0057-insert-interval) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0136-single-number](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0162-find-peak-element) |
@@ -322,5 +323,6 @@ thit repository consist all my leetcode submissions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0136-single-number) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 <!---LeetCode Topics End-->
