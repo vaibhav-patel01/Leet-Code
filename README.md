@@ -14,6 +14,7 @@ thit repository consist all my leetcode submissions
 | [0056-merge-intervals](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0057-insert-interval) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -166,6 +167,7 @@ thit repository consist all my leetcode submissions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0202-happy-number) |
@@ -329,4 +331,8 @@ thit repository consist all my leetcode submissions
 | [0137-single-number-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0190-reverse-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
