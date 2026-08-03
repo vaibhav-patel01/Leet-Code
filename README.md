@@ -319,4 +319,8 @@ thit repository consist all my leetcode submissions
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0877-stone-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 <!---LeetCode Topics End-->
