@@ -204,6 +204,7 @@ thit repository consist all my leetcode submissions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0973-k-closest-points-to-origin) |
@@ -324,5 +325,6 @@ thit repository consist all my leetcode submissions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0190-reverse-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 <!---LeetCode Topics End-->
