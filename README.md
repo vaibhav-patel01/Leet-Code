@@ -168,6 +168,7 @@ thit repository consist all my leetcode submissions
 | [0002-add-two-numbers](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
@@ -202,6 +203,7 @@ thit repository consist all my leetcode submissions
 | [0069-sqrtx](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0231-power-of-two) |
 | [0523-continuous-subarray-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0877-stone-game) |
@@ -341,6 +343,7 @@ thit repository consist all my leetcode submissions
 | [0136-single-number](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0260-single-number-iii) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Union-Find
