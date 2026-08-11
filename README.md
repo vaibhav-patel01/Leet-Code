@@ -69,6 +69,7 @@ thit repository consist all my leetcode submissions
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0027-remove-element) |
@@ -138,6 +139,7 @@ thit repository consist all my leetcode submissions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0242-valid-anagram) |
@@ -335,6 +337,7 @@ thit repository consist all my leetcode submissions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0338-counting-bits) |
@@ -376,4 +379,8 @@ thit repository consist all my leetcode submissions
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0692-top-k-frequent-words) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
