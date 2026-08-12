@@ -63,6 +63,7 @@ thit repository consist all my leetcode submissions
 | [2215-find-the-difference-of-two-arrays](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2542-maximum-subsequence-score](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2542-maximum-subsequence-score) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3169-count-days-without-meetings](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3169-count-days-without-meetings) |
 | [3731-find-missing-elements](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3731-find-missing-elements) |
@@ -210,6 +211,7 @@ thit repository consist all my leetcode submissions
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3731-find-missing-elements) |
@@ -278,6 +280,7 @@ thit repository consist all my leetcode submissions
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
