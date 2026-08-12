@@ -14,6 +14,7 @@ thit repository consist all my leetcode submissions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0057-insert-interval) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -252,6 +253,7 @@ thit repository consist all my leetcode submissions
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 | [0767-reorganize-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0767-reorganize-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -344,6 +346,7 @@ thit repository consist all my leetcode submissions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0392-is-subsequence) |
