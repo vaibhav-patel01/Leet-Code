@@ -8,6 +8,7 @@ thit repository consist all my leetcode submissions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -73,6 +74,7 @@ thit repository consist all my leetcode submissions
 | [0005-longest-palindromic-substring](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
