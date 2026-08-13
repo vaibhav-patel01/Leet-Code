@@ -27,6 +27,7 @@ thit repository consist all my leetcode submissions
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0238-product-of-array-except-self) |
@@ -225,6 +226,7 @@ thit repository consist all my leetcode submissions
 | [0069-sqrtx](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0231-power-of-two) |
 | [0523-continuous-subarray-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
@@ -299,11 +301,13 @@ thit repository consist all my leetcode submissions
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Heap (Priority Queue)
@@ -391,4 +395,16 @@ thit repository consist all my leetcode submissions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0005-longest-palindromic-substring) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
