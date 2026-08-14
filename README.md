@@ -162,6 +162,7 @@ thit repository consist all my leetcode submissions
 | [0686-repeated-string-match](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0767-reorganize-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -280,6 +281,7 @@ thit repository consist all my leetcode submissions
 | [0020-valid-parentheses](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0901-online-stock-span](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0901-online-stock-span) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
 ## String Matching
 |  |
