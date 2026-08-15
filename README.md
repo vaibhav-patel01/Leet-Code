@@ -71,6 +71,7 @@ thit repository consist all my leetcode submissions
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3169-count-days-without-meetings](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3169-count-days-without-meetings) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -398,6 +399,7 @@ thit repository consist all my leetcode submissions
 | [0260-single-number-iii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Union-Find
 |  |
 | ------- |
