@@ -35,6 +35,7 @@ thit repository consist all my leetcode submissions
 | [0260-single-number-iii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0435-non-overlapping-intervals) |
+| [0496-next-greater-element-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -213,6 +214,7 @@ thit repository consist all my leetcode submissions
 | [0242-valid-anagram](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -282,6 +284,7 @@ thit repository consist all my leetcode submissions
 | ------- |
 | [0020-valid-parentheses](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -433,6 +436,7 @@ thit repository consist all my leetcode submissions
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0901-online-stock-span) |
 ## Data Stream
