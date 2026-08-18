@@ -181,6 +181,7 @@ thit repository consist all my leetcode submissions
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3941-password-strength](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3941-password-strength) |
 ## Linked List
 |  |
 | ------- |
@@ -240,6 +241,7 @@ thit repository consist all my leetcode submissions
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3731-find-missing-elements) |
+| [3941-password-strength](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3941-password-strength) |
 ## Math
 |  |
 | ------- |
