@@ -13,6 +13,7 @@ thit repository consist all my leetcode submissions
 | [0033-search-in-rotated-sorted-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0056-merge-intervals) |
@@ -88,6 +89,7 @@ thit repository consist all my leetcode submissions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0141-linked-list-cycle) |
@@ -296,6 +298,7 @@ thit repository consist all my leetcode submissions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0402-remove-k-digits) |
@@ -387,6 +390,7 @@ thit repository consist all my leetcode submissions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0152-maximum-product-subarray) |
@@ -456,6 +460,7 @@ thit repository consist all my leetcode submissions
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0739-daily-temperatures) |
