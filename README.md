@@ -471,4 +471,8 @@ thit repository consist all my leetcode submissions
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0901-online-stock-span) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
