@@ -13,6 +13,6 @@ class Solution {
             }
             n += k ;
         }
-        return (set.size() + 1) * k;
+        return n;
     }
 }
