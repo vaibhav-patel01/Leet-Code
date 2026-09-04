@@ -87,6 +87,7 @@ thit repository consist all my leetcode submissions
 | [3731-find-missing-elements](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -359,6 +360,7 @@ thit repository consist all my leetcode submissions
 | [0974-subarray-sums-divisible-by-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1004-max-consecutive-ones-iii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [3903-smallest-stable-index-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3903-smallest-stable-index-i) |
 ## Enumeration
 |  |
 | ------- |
