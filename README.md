@@ -69,6 +69,7 @@ thit repository consist all my leetcode submissions
 | [1539-kth-missing-positive-number](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1539-kth-missing-positive-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1695-maximum-erasure-value) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -142,6 +143,7 @@ thit repository consist all my leetcode submissions
 | [1331-rank-transform-of-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -169,6 +171,7 @@ thit repository consist all my leetcode submissions
 | [0875-koko-eating-bananas](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1539-kth-missing-positive-number) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2187-minimum-time-to-complete-trips](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2187-minimum-time-to-complete-trips) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## String
@@ -313,6 +316,7 @@ thit repository consist all my leetcode submissions
 | [0767-reorganize-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1386-cinema-seat-allocation) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2542-maximum-subsequence-score](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2542-maximum-subsequence-score) |
@@ -351,6 +355,7 @@ thit repository consist all my leetcode submissions
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1695-maximum-erasure-value) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -367,6 +372,7 @@ thit repository consist all my leetcode submissions
 | [0724-find-pivot-index](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1004-max-consecutive-ones-iii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3903-smallest-stable-index-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3904-smallest-stable-index-ii) |
