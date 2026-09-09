@@ -188,6 +188,7 @@ thit repository consist all my leetcode submissions
 | [0242-valid-anagram](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0443-string-compression) |
@@ -234,6 +235,7 @@ thit repository consist all my leetcode submissions
 | [0206-reverse-linked-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0394-decode-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -337,6 +339,7 @@ thit repository consist all my leetcode submissions
 | [0042-trapping-rain-water](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0735-asteroid-collision) |
