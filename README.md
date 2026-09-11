@@ -33,6 +33,7 @@ thit repository consist all my leetcode submissions
 | [0204-count-primes](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0347-top-k-frequent-elements) |
@@ -134,6 +135,7 @@ thit repository consist all my leetcode submissions
 | [0148-sort-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0435-non-overlapping-intervals) |
@@ -252,6 +254,7 @@ thit repository consist all my leetcode submissions
 | [0141-linked-list-cycle](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -438,6 +441,7 @@ thit repository consist all my leetcode submissions
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0692-top-k-frequent-words) |
@@ -540,4 +544,8 @@ thit repository consist all my leetcode submissions
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0881-boats-to-save-people) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
