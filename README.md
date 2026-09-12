@@ -72,6 +72,7 @@ thit repository consist all my leetcode submissions
 | [1539-kth-missing-positive-number](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1539-kth-missing-positive-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1695-maximum-erasure-value) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -207,6 +208,7 @@ thit repository consist all my leetcode submissions
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1768-merge-strings-alternately) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
@@ -396,6 +398,7 @@ thit repository consist all my leetcode submissions
 | [0724-find-pivot-index](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1004-max-consecutive-ones-iii) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3903-smallest-stable-index-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3903-smallest-stable-index-i) |
