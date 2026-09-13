@@ -53,6 +53,7 @@ thit repository consist all my leetcode submissions
 | [0724-find-pivot-index](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0739-daily-temperatures) |
+| [0835-image-overlap](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0881-boats-to-save-people) |
@@ -551,4 +552,8 @@ thit repository consist all my leetcode submissions
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0229-majority-element-ii) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
