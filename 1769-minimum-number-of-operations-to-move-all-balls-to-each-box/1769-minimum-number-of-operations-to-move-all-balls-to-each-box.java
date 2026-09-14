@@ -1,20 +1,24 @@
 class Solution {
     public int[] minOperations(String boxes) {
+        int sum = 0 , ones = 0;
         int n = boxes.length();
-        int[] ans = new int[n];
-        int[] temp = new int[n];
-        for (int i = 0 ; i < n ; i++){
-            if(boxes.charAt(i) == '1')
-            temp[i] = 1;  
-        }
-        for (int i = 0 ; i < n ; i ++){
-            for (int j = 0 ; j < n ; j++){
-                if(temp[j] == 1){
-                    ans[i] += Math.abs(j-i); 
-                }
+        int[] arr = new int[n];
+        for (int i= 0 ; i < n ; i++){
+            if (boxes.charAt(i) == '1'){
+                sum += i;
+                ones++;
             }
         }
-        return ans;
-
+        int onesBefore = 0 ;
+        for (int i = 0; i < n ; i++){
+            arr[i] = sum ;
+            if(boxes.charAt(i) == '1'){
+                ones--;
+                onesBefore++;
+                
+            }
+            sum = sum - ones + onesBefore;
+        }
+        return arr;
     }
 }
