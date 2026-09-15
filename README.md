@@ -64,6 +64,7 @@ thit repository consist all my leetcode submissions
 | [0986-interval-list-intersections](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1207-unique-number-of-occurrences) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -150,6 +151,7 @@ thit repository consist all my leetcode submissions
 | [0791-custom-sort-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0973-k-closest-points-to-origin) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -340,6 +342,7 @@ thit repository consist all my leetcode submissions
 | [0621-task-scheduler](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0881-boats-to-save-people) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1386-cinema-seat-allocation](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1386-cinema-seat-allocation) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -469,6 +472,7 @@ thit repository consist all my leetcode submissions
 | [0392-is-subsequence](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0877-stone-game) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Counting Sort
 |  |
