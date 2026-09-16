@@ -91,6 +91,7 @@ thit repository consist all my leetcode submissions
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3169-count-days-without-meetings](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3169-count-days-without-meetings) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -240,6 +241,7 @@ thit repository consist all my leetcode submissions
 | [0876-middle-of-the-linked-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
@@ -286,6 +288,7 @@ thit repository consist all my leetcode submissions
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3718-smallest-missing-multiple-of-k) |
