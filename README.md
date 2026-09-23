@@ -72,6 +72,7 @@ thit repository consist all my leetcode submissions
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1539-kth-missing-positive-number](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1539-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1695-maximum-erasure-value) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -186,6 +187,7 @@ thit repository consist all my leetcode submissions
 | [0875-koko-eating-bananas](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1539-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2187-minimum-time-to-complete-trips](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2187-minimum-time-to-complete-trips) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -279,6 +281,7 @@ thit repository consist all my leetcode submissions
 | [1207-unique-number-of-occurrences](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1386-cinema-seat-allocation) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1695-maximum-erasure-value) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -388,6 +391,7 @@ thit repository consist all my leetcode submissions
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1695-maximum-erasure-value) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -406,6 +410,7 @@ thit repository consist all my leetcode submissions
 | [0724-find-pivot-index](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1004-max-consecutive-ones-iii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2302-count-subarrays-with-score-less-than-k) |
