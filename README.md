@@ -246,6 +246,7 @@ thit repository consist all my leetcode submissions
 | [0876-middle-of-the-linked-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
@@ -256,6 +257,7 @@ thit repository consist all my leetcode submissions
 | [0231-power-of-two](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0394-decode-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -378,6 +380,7 @@ thit repository consist all my leetcode submissions
 | [0946-validate-stack-sequences](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2487-remove-nodes-from-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -555,6 +558,7 @@ thit repository consist all my leetcode submissions
 | [0496-next-greater-element-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0901-online-stock-span) |
+| [2487-remove-nodes-from-linked-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2487-remove-nodes-from-linked-list) |
 ## Data Stream
 |  |
 | ------- |
