@@ -28,6 +28,7 @@ thit repository consist all my leetcode submissions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0204-count-primes) |
@@ -140,6 +141,7 @@ thit repository consist all my leetcode submissions
 | [0018-4sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0229-majority-element-ii) |
@@ -268,6 +270,7 @@ thit repository consist all my leetcode submissions
 | [0128-longest-consecutive-sequence](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0242-valid-anagram) |
@@ -335,6 +338,7 @@ thit repository consist all my leetcode submissions
 | [0004-median-of-two-sorted-arrays](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0347-top-k-frequent-elements) |
@@ -466,6 +470,7 @@ thit repository consist all my leetcode submissions
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0621-task-scheduler) |
@@ -575,6 +580,7 @@ thit repository consist all my leetcode submissions
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0229-majority-element-ii) |
 ## Matrix
 |  |
