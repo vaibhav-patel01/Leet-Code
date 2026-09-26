@@ -317,6 +317,7 @@ thit repository consist all my leetcode submissions
 | ------- |
 | [0002-add-two-numbers](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0202-happy-number) |
@@ -498,6 +499,7 @@ thit repository consist all my leetcode submissions
 | [0042-trapping-rain-water](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0392-is-subsequence) |
@@ -599,6 +601,7 @@ thit repository consist all my leetcode submissions
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0509-fibonacci-number) |
 ## Bracket Sequences
 |  |
