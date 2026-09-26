@@ -31,6 +31,7 @@ thit repository consist all my leetcode submissions
 | [0169-majority-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
@@ -501,6 +502,7 @@ thit repository consist all my leetcode submissions
 | [0055-jump-game](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0435-non-overlapping-intervals) |
