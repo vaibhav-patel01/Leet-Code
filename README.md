@@ -134,6 +134,7 @@ thit repository consist all my leetcode submissions
 | [0986-interval-list-intersections](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0986-interval-list-intersections) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1768-merge-strings-alternately) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Sorting
@@ -221,6 +222,7 @@ thit repository consist all my leetcode submissions
 | [1768-merge-strings-alternately](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1768-merge-strings-alternately) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
@@ -368,6 +370,7 @@ thit repository consist all my leetcode submissions
 | [1386-cinema-seat-allocation](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1386-cinema-seat-allocation) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2542-maximum-subsequence-score](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2542-maximum-subsequence-score) |
@@ -389,6 +392,7 @@ thit repository consist all my leetcode submissions
 | [0901-online-stock-span](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2390-removing-stars-from-a-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2487-remove-nodes-from-linked-list) |
 ## String Matching
@@ -596,4 +600,8 @@ thit repository consist all my leetcode submissions
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0509-fibonacci-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
