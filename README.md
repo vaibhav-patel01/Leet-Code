@@ -224,6 +224,7 @@ thit repository consist all my leetcode submissions
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1768-merge-strings-alternately) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -301,6 +302,7 @@ thit repository consist all my leetcode submissions
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1695-maximum-erasure-value) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -490,6 +492,7 @@ thit repository consist all my leetcode submissions
 | [0621-task-scheduler](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0767-reorganize-string) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Geometry
 |  |
