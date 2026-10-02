@@ -14,6 +14,7 @@ thit repository consist all my leetcode submissions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0056-merge-intervals) |
@@ -631,4 +632,5 @@ thit repository consist all my leetcode submissions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
