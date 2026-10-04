@@ -41,6 +41,7 @@ thit repository consist all my leetcode submissions
 | [0229-majority-element-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0260-single-number-iii) |
+| [0300-longest-increasing-subsequence](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 | [0475-heaters](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0475-heaters) |
@@ -193,6 +194,7 @@ thit repository consist all my leetcode submissions
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0300-longest-increasing-subsequence) |
 | [0475-heaters](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
@@ -522,6 +524,7 @@ thit repository consist all my leetcode submissions
 | [0152-maximum-product-subarray](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0435-non-overlapping-intervals) |
@@ -641,4 +644,8 @@ thit repository consist all my leetcode submissions
 | [0022-generate-parentheses](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0047-permutations-ii) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
