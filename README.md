@@ -221,6 +221,7 @@ thit repository consist all my leetcode submissions
 | [0402-remove-k-digits](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0443-string-compression) |
+| [0678-valid-parenthesis-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0767-reorganize-string) |
@@ -377,6 +378,7 @@ thit repository consist all my leetcode submissions
 | [0402-remove-k-digits](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0881-boats-to-save-people) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -400,6 +402,7 @@ thit repository consist all my leetcode submissions
 | [0394-decode-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0901-online-stock-span) |
@@ -523,6 +526,7 @@ thit repository consist all my leetcode submissions
 | [0392-is-subsequence](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0877-stone-game) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -627,6 +631,7 @@ thit repository consist all my leetcode submissions
 | ------- |
 | [0020-valid-parentheses](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
