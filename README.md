@@ -54,6 +54,7 @@ thit repository consist all my leetcode submissions
 | [0621-task-scheduler](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
+| [0646-maximum-length-of-pair-chain](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0724-find-pivot-index) |
@@ -162,6 +163,7 @@ thit repository consist all my leetcode submissions
 | [0532-k-diff-pairs-in-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0621-task-scheduler](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0646-maximum-length-of-pair-chain) |
 | [0692-top-k-frequent-words](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0791-custom-sort-string) |
@@ -381,6 +383,7 @@ thit repository consist all my leetcode submissions
 | [0402-remove-k-digits](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0621-task-scheduler) |
+| [0646-maximum-length-of-pair-chain](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0881-boats-to-save-people) |
@@ -531,6 +534,7 @@ thit repository consist all my leetcode submissions
 | [0392-is-subsequence](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0509-fibonacci-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0877-stone-game) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -651,4 +655,5 @@ thit repository consist all my leetcode submissions
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0300-longest-increasing-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
