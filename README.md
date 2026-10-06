@@ -234,6 +234,7 @@ thit repository consist all my leetcode submissions
 | [0767-reorganize-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0791-custom-sort-string) |
 | [0856-score-of-parentheses](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1048-longest-string-chain](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1048-longest-string-chain) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -392,6 +393,7 @@ thit repository consist all my leetcode submissions
 | [0678-valid-parenthesis-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1386-cinema-seat-allocation](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1386-cinema-seat-allocation) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -418,6 +420,7 @@ thit repository consist all my leetcode submissions
 | [0739-daily-temperatures](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -648,6 +651,7 @@ thit repository consist all my leetcode submissions
 | [0022-generate-parentheses](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
