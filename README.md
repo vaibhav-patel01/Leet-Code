@@ -672,4 +672,8 @@ thit repository consist all my leetcode submissions
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1143-longest-common-subsequence) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
