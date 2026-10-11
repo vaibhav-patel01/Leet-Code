@@ -100,6 +100,7 @@ thit repository consist all my leetcode submissions
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2542-maximum-subsequence-score](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2542-maximum-subsequence-score) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -484,6 +485,7 @@ thit repository consist all my leetcode submissions
 | ------- |
 | [0204-count-primes](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
