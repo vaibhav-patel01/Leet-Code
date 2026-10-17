@@ -237,6 +237,7 @@ thit repository consist all my leetcode submissions
 | [0402-remove-k-digits](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0443-string-compression) |
+| [0516-longest-palindromic-subsequence](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0686-repeated-string-match) |
@@ -563,6 +564,7 @@ thit repository consist all my leetcode submissions
 | [0392-is-subsequence](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0516-longest-palindromic-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0678-valid-parenthesis-string) |
