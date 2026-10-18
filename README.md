@@ -253,6 +253,7 @@ thit repository consist all my leetcode submissions
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1768-merge-strings-alternately](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1768-merge-strings-alternately) |
@@ -575,6 +576,7 @@ thit repository consist all my leetcode submissions
 | [1048-longest-string-chain](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Counting Sort
