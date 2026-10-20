@@ -370,6 +370,7 @@ thit repository consist all my leetcode submissions
 | [0202-happy-number](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0231-power-of-two) |
+| [0279-perfect-squares](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
@@ -568,6 +569,7 @@ thit repository consist all my leetcode submissions
 | [0152-maximum-product-subarray](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0392-is-subsequence) |
@@ -727,4 +729,16 @@ thit repository consist all my leetcode submissions
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0279-perfect-squares) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
