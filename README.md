@@ -72,6 +72,7 @@ thit repository consist all my leetcode submissions
 | [1004-max-consecutive-ones-iii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1004-max-consecutive-ones-iii) |
 | [1048-longest-string-chain](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1048-longest-string-chain) |
 | [1207-unique-number-of-occurrences](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1207-unique-number-of-occurrences) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1331-rank-transform-of-an-array) |
@@ -256,6 +257,7 @@ thit repository consist all my leetcode submissions
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -611,6 +613,7 @@ thit repository consist all my leetcode submissions
 | [0231-power-of-two](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0338-counting-bits) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1386-cinema-seat-allocation](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -696,6 +699,7 @@ thit repository consist all my leetcode submissions
 | [0022-generate-parentheses](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0047-permutations-ii) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
