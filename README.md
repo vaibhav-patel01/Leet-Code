@@ -275,6 +275,7 @@ thit repository consist all my leetcode submissions
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3941-password-strength](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3941-password-strength) |
 ## Linked List
 |  |
