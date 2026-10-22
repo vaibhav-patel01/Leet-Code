@@ -723,6 +723,7 @@ thit repository consist all my leetcode submissions
 | [0181-employees-earning-more-than-their-managers](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0183-customers-who-never-order) |
+| [0184-department-highest-salary](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0185-department-top-three-salaries) |
 ## Binary Indexed Tree
 |  |
