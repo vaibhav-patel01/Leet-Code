@@ -465,6 +465,7 @@ thit repository consist all my leetcode submissions
 | ------- |
 | [0020-valid-parentheses](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0234-palindrome-linked-list) |
@@ -780,13 +781,16 @@ thit repository consist all my leetcode submissions
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
