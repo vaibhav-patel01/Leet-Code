@@ -285,6 +285,7 @@ thit repository consist all my leetcode submissions
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2409-count-days-spent-together](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2409-count-days-spent-together) |
@@ -637,6 +638,7 @@ thit repository consist all my leetcode submissions
 | [0735-asteroid-collision](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0946-validate-stack-sequences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Game Theory
