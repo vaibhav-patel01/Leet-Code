@@ -360,6 +360,7 @@ thit repository consist all my leetcode submissions
 | [0532-k-diff-pairs-in-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0621-task-scheduler) |
+| [0652-find-duplicate-subtrees](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0652-find-duplicate-subtrees) |
 | [0692-top-k-frequent-words](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0791-custom-sort-string) |
@@ -817,6 +818,7 @@ thit repository consist all my leetcode submissions
 | [0113-path-sum-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0652-find-duplicate-subtrees](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0652-find-duplicate-subtrees) |
 | [1609-even-odd-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1609-even-odd-tree) |
 ## Depth-First Search
 |  |
@@ -828,6 +830,7 @@ thit repository consist all my leetcode submissions
 | [0113-path-sum-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0652-find-duplicate-subtrees](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0652-find-duplicate-subtrees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -841,5 +844,6 @@ thit repository consist all my leetcode submissions
 | [0113-path-sum-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
+| [0652-find-duplicate-subtrees](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0652-find-duplicate-subtrees) |
 | [1609-even-odd-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1609-even-odd-tree) |
 <!---LeetCode Topics End-->
