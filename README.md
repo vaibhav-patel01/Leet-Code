@@ -120,6 +120,7 @@ thit repository consist all my leetcode submissions
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3169-count-days-without-meetings](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3169-count-days-without-meetings) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -299,6 +300,7 @@ thit repository consist all my leetcode submissions
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3941-password-strength](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3941-password-strength) |
@@ -385,6 +387,7 @@ thit repository consist all my leetcode submissions
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -820,6 +823,7 @@ thit repository consist all my leetcode submissions
 | [0145-binary-tree-postorder-traversal](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0652-find-duplicate-subtrees](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0652-find-duplicate-subtrees) |
 | [1609-even-odd-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1609-even-odd-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -831,6 +835,7 @@ thit repository consist all my leetcode submissions
 | [0144-binary-tree-preorder-traversal](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0652-find-duplicate-subtrees](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0652-find-duplicate-subtrees) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
