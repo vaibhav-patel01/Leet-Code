@@ -826,6 +826,7 @@ thit repository consist all my leetcode submissions
 | [0145-binary-tree-postorder-traversal](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0199-binary-tree-right-side-view) |
 | [0652-find-duplicate-subtrees](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0652-find-duplicate-subtrees) |
+| [0700-search-in-a-binary-search-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0700-search-in-a-binary-search-tree) |
 | [1609-even-odd-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1609-even-odd-tree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
@@ -857,5 +858,10 @@ thit repository consist all my leetcode submissions
 | [0145-binary-tree-postorder-traversal](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0199-binary-tree-right-side-view) |
 | [0652-find-duplicate-subtrees](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0652-find-duplicate-subtrees) |
+| [0700-search-in-a-binary-search-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0700-search-in-a-binary-search-tree) |
 | [1609-even-odd-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1609-even-odd-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
