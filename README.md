@@ -291,6 +291,7 @@ thit repository consist all my leetcode submissions
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
