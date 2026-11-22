@@ -1,12 +1,8 @@
 class Solution {
     public boolean checkString(String s) {
         if(s.length() == 1) return true; 
-        int a = 0;
-        for(char ch : s.toCharArray()){
-            if(ch == 'a') a++; 
-        }
-        for (int i = 0; i< a; i++){
-            if(s.charAt(i) != 'a'){
+        for (int i = 1; i< s.length(); i++){
+            if(s.charAt(i) == 'a' && s.charAt(i-1) == 'b'){
                 return false ;
             }
         }
