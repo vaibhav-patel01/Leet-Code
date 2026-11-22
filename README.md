@@ -802,6 +802,7 @@ thit repository consist all my leetcode submissions
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0279-perfect-squares) |
+| [0662-maximum-width-of-binary-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0662-maximum-width-of-binary-tree) |
 | [1609-even-odd-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1609-even-odd-tree) |
 ## Knapsack Problem
 |  |
@@ -827,6 +828,7 @@ thit repository consist all my leetcode submissions
 | [0145-binary-tree-postorder-traversal](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0199-binary-tree-right-side-view) |
 | [0652-find-duplicate-subtrees](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0652-find-duplicate-subtrees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1609-even-odd-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1609-even-odd-tree) |
@@ -843,6 +845,7 @@ thit repository consist all my leetcode submissions
 | [0145-binary-tree-postorder-traversal](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0199-binary-tree-right-side-view) |
 | [0652-find-duplicate-subtrees](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0652-find-duplicate-subtrees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0662-maximum-width-of-binary-tree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
@@ -860,6 +863,7 @@ thit repository consist all my leetcode submissions
 | [0145-binary-tree-postorder-traversal](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0199-binary-tree-right-side-view) |
 | [0652-find-duplicate-subtrees](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0652-find-duplicate-subtrees) |
+| [0662-maximum-width-of-binary-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1609-even-odd-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1609-even-odd-tree) |
