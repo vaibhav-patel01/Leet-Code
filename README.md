@@ -827,6 +827,7 @@ thit repository consist all my leetcode submissions
 | [0144-binary-tree-preorder-traversal](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0199-binary-tree-right-side-view) |
+| [0450-delete-node-in-a-bst](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0450-delete-node-in-a-bst) |
 | [0652-find-duplicate-subtrees](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0700-search-in-a-binary-search-tree) |
@@ -862,6 +863,7 @@ thit repository consist all my leetcode submissions
 | [0144-binary-tree-preorder-traversal](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0199-binary-tree-right-side-view) |
+| [0450-delete-node-in-a-bst](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0450-delete-node-in-a-bst) |
 | [0652-find-duplicate-subtrees](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0700-search-in-a-binary-search-tree) |
@@ -870,6 +872,7 @@ thit repository consist all my leetcode submissions
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
