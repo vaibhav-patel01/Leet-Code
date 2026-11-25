@@ -370,6 +370,7 @@ thit repository consist all my leetcode submissions
 | [0692-top-k-frequent-words](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0791-custom-sort-string) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1048-longest-string-chain](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1048-longest-string-chain) |
@@ -812,6 +813,7 @@ thit repository consist all my leetcode submissions
 | [0199-binary-tree-right-side-view](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0279-perfect-squares) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1609-even-odd-tree) |
 ## Knapsack Problem
@@ -847,6 +849,7 @@ thit repository consist all my leetcode submissions
 | [0662-maximum-width-of-binary-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1609-even-odd-tree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -866,6 +869,7 @@ thit repository consist all my leetcode submissions
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0652-find-duplicate-subtrees) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0662-maximum-width-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
@@ -893,6 +897,7 @@ thit repository consist all my leetcode submissions
 | [0662-maximum-width-of-binary-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1609-even-odd-tree) |
 ## Binary Search Tree
