@@ -142,6 +142,7 @@ thit repository consist all my leetcode submissions
 | [3903-smallest-stable-index-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -227,6 +228,7 @@ thit repository consist all my leetcode submissions
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3731-find-missing-elements) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -492,6 +494,7 @@ thit repository consist all my leetcode submissions
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Stack
 |  |
 | ------- |
@@ -598,6 +601,7 @@ thit repository consist all my leetcode submissions
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2542-maximum-subsequence-score](https://github.com/vaibhav-patel01/Leet-Code/tree/master/2542-maximum-subsequence-score) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Quickselect
 |  |
 | ------- |
