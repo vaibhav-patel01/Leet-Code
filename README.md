@@ -42,6 +42,7 @@ thit repository consist all my leetcode submissions
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0220-contains-duplicate-iii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0260-single-number-iii) |
@@ -186,6 +187,7 @@ thit repository consist all my leetcode submissions
 | [0169-majority-element](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0220-contains-duplicate-iii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0347-top-k-frequent-elements) |
@@ -527,6 +529,7 @@ thit repository consist all my leetcode submissions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
+| [0220-contains-duplicate-iii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0220-contains-duplicate-iii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0713-subarray-product-less-than-k) |
@@ -605,6 +608,7 @@ thit repository consist all my leetcode submissions
 ## Bucket Sort
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0220-contains-duplicate-iii) |
 | [0347-top-k-frequent-elements](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0692-top-k-frequent-words) |
 ## Counting
@@ -933,4 +937,8 @@ thit repository consist all my leetcode submissions
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/1140-stone-game-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/vaibhav-patel01/Leet-Code/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
